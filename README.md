@@ -15,6 +15,6 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/zcode-glitch/to-do-list-python-.git
+git clone https://github.com/zcode-glitch/password_generate.git
 cd random-password-generator
 python main.py / py main.py / python3 main.py
